@@ -14,7 +14,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=VINAY-KOTHARI-10&theme=radical&no-frame=false&no-bg=true&margin-w=6)
 <br>
-<p align="left"> <a href="https://twitter.com/vvkothari0046" target="blank"><img src="https://img.shields.io/twitter/follow/vvkothari0046?logo=twitter&style=for-the-badge" alt="vvkothari0046" /></a> </p>
+<p align="left"> <a href="https://github.com/VINAY-KOTHARI-10" target="blank"><img src="https://img.shields.io/twitter/follow/vvkothari0046?logo=twitter&style=for-the-badge" alt="vvkothari0046" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ```markdown
