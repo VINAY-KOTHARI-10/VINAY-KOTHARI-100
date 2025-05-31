@@ -18,13 +18,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ```markdown
-- 🔭 I’m currently working on Blockchain projects
+- 🔭 I’m currently working on myself
 
 - 🌱 I’m currently learning C++ DSA and Blockchain technology
 
 - 👨‍💻 All of my projects are available at https://github.com/VINAY-KOTHARI-10
 
-- 💬 Ask me about C++, Data Structures, Blockchain
+- 💬 Ask me about Python, C, C++, Java, Data Structures, Blockchain
 
 - 📫 How to reach me vvkothari0046@gmail.com
 
